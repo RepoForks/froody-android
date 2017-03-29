@@ -1,4 +1,4 @@
-### v0.2.5 (WIP)
+### v0.2.5
 - Introduce minimalistic Markdown Parser
 - Show CHANGELOG after update / LICENSE first start
 - Convert existing Markup files to Markdown
